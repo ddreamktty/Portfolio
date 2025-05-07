@@ -8,13 +8,6 @@
 
 ## About Me 
 
-**TH:**  
-สวัสดีค่ะ ฉันชื่อ [ชื่อ-นามสกุล] จบการศึกษาจากคณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (KMUTT)  
-ฉันมีความสนใจด้าน Business Analysis, UX/UI Design และ Data Science โดยเฉพาะการออกแบบประสบการณ์ผู้ใช้ที่ตรงกับความต้องการของธุรกิจ  
-มีประสบการณ์ฝึกงานในตำแหน่ง UX/UI Designer ที่บริษัท IBOTNOI เป็นเวลา 6 เดือน ได้เรียนรู้การทำงานร่วมกับทีมพัฒนา และเก็บรวบรวมความต้องการจากผู้ใช้จริง  
-เป้าหมายของฉันคือการเป็น BA หรือ UX/UI Designer ที่สามารถเข้าใจข้อมูลและนำเสนอแนวทางที่ตอบโจทย์ทั้งผู้ใช้และธุรกิจ
-
-**EN:**  
 Hi! I’m Kittiya Siangprem, a final-year student graduating in May 2025 from the School of Information Technology, KMUTT.  
 I'm passionate about Business Analysis, UX/UI Design, and Data Science—especially creating digital experiences that meet both user needs and business goals.  
 I completed a 6-month internship as a UX/UI Designer at IBOTNOI, where I worked closely with developers and users to design real-world solutions.  
