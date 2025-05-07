@@ -2,11 +2,11 @@
 
 # Kittiya Siangprem
 
-**Graduated Student | Business Analyst (BA) | UX/UI Designer | Data Science Enthusiast**
+** 🎓 Final-Year Student | UX/UI Designer (Internship, 6 months) | Seeking roles in BA & Data Analysis
 
 ---
 
-## About Me 
+## 📌 About Me 
 
 Hi! I’m Kittiya Siangprem, a final-year student graduating in May 2025 from the School of Information Technology, KMUTT.  
 I'm passionate about Business Analysis, UX/UI Design, and Data Science—especially creating digital experiences that meet both user needs and business goals.  
@@ -24,7 +24,7 @@ My career goal is to become a BA or UX/UI Designer who can interpret data and in
 
 ---
 
-## Open to work in...
+## 💼 Open to work in...
 
 - Business Analyst (BA)  
 - UX/UI Designer  
@@ -32,7 +32,7 @@ My career goal is to become a BA or UX/UI Designer who can interpret data and in
 
 ---
 
-## Contact
+## 📫 Contact
 
 - Email: [kittiyasiangprem@gmail.com]  
 - LinkedIn: [linkedin.com/in/yourprofile]  
