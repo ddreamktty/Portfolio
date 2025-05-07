@@ -1,6 +1,6 @@
 # Portfolio
 
-# [Kittiya Siangprem]
+# Kittiya Siangprem
 
 **Graduated Student | Business Analyst (BA) | UX/UI Designer | Data Science Enthusiast**
 
