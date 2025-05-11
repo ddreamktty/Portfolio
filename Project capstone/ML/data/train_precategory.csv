@@ -1,0 +1,201 @@
+user_id,age,gender,interested,category
+1,75,male,Food & Lifestyle,film
+2,22,male,Food & Lifestyle,party
+3,18,female,Arts & Culture,wedding
+4,70,male,Sports,staycation
+5,44,female,Sports,film
+6,26,male,Technology & Innovation,film
+7,39,male,Sports,staycation
+8,42,male,Sports,party
+9,56,male,Sports,staycation
+10,35,male,Sports,party
+11,57,female,Arts & Culture,staycation
+12,64,female,Arts & Culture,party
+13,19,male,Technology & Innovation,film
+14,31,male,Arts & Culture,party
+15,75,male,Technology & Innovation,film
+16,19,male,Technology & Innovation,wedding
+17,18,male,Arts & Culture,wedding
+18,30,female,Technology & Innovation,wedding
+19,71,female,Food & Lifestyle,wedding
+20,58,male,Arts & Culture,film
+21,42,female,Sports,party
+22,50,female,Sports,staycation
+23,51,male,Sports,staycation
+24,75,male,Technology & Innovation,party
+25,52,female,Technology & Innovation,staycation
+26,33,female,Sports,film
+27,48,female,Arts & Culture,wedding
+28,34,female,Food & Lifestyle,film
+29,73,female,Food & Lifestyle,wedding
+30,36,female,Technology & Innovation,wedding
+31,21,female,Arts & Culture,party
+32,35,male,Food & Lifestyle,staycation
+33,22,male,Sports,film
+34,18,female,Arts & Culture,party
+35,28,male,Sports,film
+36,29,male,Technology & Innovation,party
+37,35,female,Food & Lifestyle,staycation
+38,21,female,Food & Lifestyle,film
+39,22,female,Arts & Culture,staycation
+40,56,female,Food & Lifestyle,film
+41,24,male,Food & Lifestyle,staycation
+42,19,male,Technology & Innovation,staycation
+43,31,female,Technology & Innovation,staycation
+44,74,male,Food & Lifestyle,staycation
+45,64,female,Food & Lifestyle,film
+46,20,female,Arts & Culture,party
+47,38,male,Technology & Innovation,film
+48,56,female,Food & Lifestyle,staycation
+49,35,male,Food & Lifestyle,film
+50,30,female,Technology & Innovation,film
+51,18,female,Food & Lifestyle,party
+52,52,male,Food & Lifestyle,film
+53,48,male,Sports,film
+54,22,female,Food & Lifestyle,wedding
+55,28,female,Arts & Culture,staycation
+56,57,male,Technology & Innovation,film
+57,36,male,Food & Lifestyle,party
+58,56,male,Technology & Innovation,staycation
+59,19,female,Technology & Innovation,wedding
+60,25,male,Arts & Culture,film
+61,39,male,Arts & Culture,wedding
+62,52,female,Arts & Culture,wedding
+63,18,male,Technology & Innovation,staycation
+64,40,male,Sports,wedding
+65,25,female,Food & Lifestyle,party
+66,71,male,Arts & Culture,film
+67,34,female,Sports,film
+68,51,male,Arts & Culture,party
+69,51,male,Sports,staycation
+70,56,male,Sports,wedding
+71,36,male,Technology & Innovation,wedding
+72,25,female,Sports,film
+73,34,male,Technology & Innovation,wedding
+74,38,male,Food & Lifestyle,film
+75,36,male,Sports,wedding
+76,72,male,Technology & Innovation,staycation
+77,36,female,Arts & Culture,party
+78,33,female,Technology & Innovation,party
+79,49,male,Food & Lifestyle,party
+80,28,male,Food & Lifestyle,party
+81,32,female,Sports,staycation
+82,28,female,Food & Lifestyle,wedding
+83,43,male,Technology & Innovation,wedding
+84,18,female,Sports,wedding
+85,36,male,Sports,party
+86,35,female,Sports,party
+87,26,female,Technology & Innovation,party
+88,20,female,Sports,staycation
+89,37,female,Arts & Culture,staycation
+90,57,male,Food & Lifestyle,film
+91,28,male,Food & Lifestyle,wedding
+92,34,male,Arts & Culture,party
+93,45,male,Food & Lifestyle,party
+94,63,female,Technology & Innovation,party
+95,57,male,Arts & Culture,party
+96,22,female,Technology & Innovation,film
+97,37,male,Technology & Innovation,staycation
+98,24,male,Technology & Innovation,staycation
+99,18,male,Sports,staycation
+100,29,male,Sports,wedding
+101,25,male,Sports,party
+102,38,male,Sports,wedding
+103,37,male,Arts & Culture,staycation
+104,20,female,Arts & Culture,film
+105,75,female,Sports,party
+106,22,male,Food & Lifestyle,wedding
+107,25,male,Sports,staycation
+108,71,male,Technology & Innovation,wedding
+109,20,male,Technology & Innovation,party
+110,55,male,Technology & Innovation,film
+111,30,male,Sports,wedding
+112,39,female,Technology & Innovation,staycation
+113,72,male,Arts & Culture,staycation
+114,66,male,Sports,party
+115,26,male,Food & Lifestyle,party
+116,39,female,Arts & Culture,film
+117,20,male,Technology & Innovation,staycation
+118,39,male,Sports,party
+119,42,male,Technology & Innovation,party
+120,22,female,Sports,staycation
+121,41,female,Sports,wedding
+122,25,female,Sports,wedding
+123,50,female,Arts & Culture,film
+124,25,male,Arts & Culture,staycation
+125,53,female,Food & Lifestyle,party
+126,46,male,Technology & Innovation,film
+127,63,female,Food & Lifestyle,film
+128,40,female,Food & Lifestyle,staycation
+129,30,male,Technology & Innovation,party
+130,27,male,Technology & Innovation,staycation
+131,40,male,Sports,staycation
+132,22,female,Food & Lifestyle,film
+133,37,female,Arts & Culture,party
+134,35,female,Technology & Innovation,party
+135,28,female,Sports,party
+136,24,male,Food & Lifestyle,film
+137,74,female,Arts & Culture,party
+138,75,male,Food & Lifestyle,party
+139,20,male,Sports,party
+140,20,female,Technology & Innovation,staycation
+141,56,female,Sports,staycation
+142,23,female,Sports,film
+143,30,female,Sports,wedding
+144,25,female,Arts & Culture,staycation
+145,53,female,Arts & Culture,party
+146,48,female,Sports,staycation
+147,20,male,Food & Lifestyle,film
+148,49,female,Technology & Innovation,wedding
+149,75,male,Technology & Innovation,film
+150,39,female,Food & Lifestyle,party
+151,59,female,Sports,wedding
+152,19,female,Sports,staycation
+153,58,female,Food & Lifestyle,wedding
+154,32,female,Food & Lifestyle,staycation
+155,37,male,Technology & Innovation,party
+156,24,male,Technology & Innovation,party
+157,36,female,Food & Lifestyle,film
+158,49,male,Technology & Innovation,wedding
+159,65,female,Technology & Innovation,film
+160,56,female,Technology & Innovation,wedding
+161,30,female,Arts & Culture,film
+162,24,male,Arts & Culture,party
+163,39,male,Arts & Culture,staycation
+164,22,male,Food & Lifestyle,film
+165,32,female,Food & Lifestyle,wedding
+166,75,male,Technology & Innovation,film
+167,33,male,Food & Lifestyle,film
+168,24,male,Food & Lifestyle,party
+169,32,male,Arts & Culture,wedding
+170,73,female,Technology & Innovation,party
+171,19,male,Food & Lifestyle,film
+172,55,female,Arts & Culture,wedding
+173,28,female,Food & Lifestyle,staycation
+174,60,male,Technology & Innovation,party
+175,23,male,Technology & Innovation,party
+176,38,male,Sports,staycation
+177,38,male,Arts & Culture,film
+178,45,male,Food & Lifestyle,wedding
+179,35,male,Technology & Innovation,wedding
+180,39,male,Sports,party
+181,45,female,Arts & Culture,wedding
+182,29,female,Food & Lifestyle,party
+183,44,male,Sports,wedding
+184,37,male,Sports,party
+185,49,female,Food & Lifestyle,party
+186,27,male,Arts & Culture,party
+187,75,male,Arts & Culture,wedding
+188,20,male,Technology & Innovation,film
+189,25,male,Food & Lifestyle,wedding
+190,62,female,Arts & Culture,staycation
+191,32,female,Arts & Culture,party
+192,48,female,Technology & Innovation,staycation
+193,34,male,Technology & Innovation,wedding
+194,65,female,Arts & Culture,wedding
+195,37,male,Sports,film
+196,37,male,Food & Lifestyle,wedding
+197,37,female,Arts & Culture,staycation
+198,34,female,Arts & Culture,wedding
+199,35,male,Sports,film
+200,66,female,Food & Lifestyle,film
