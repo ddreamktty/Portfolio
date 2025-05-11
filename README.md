@@ -2,7 +2,7 @@
 
 # Kittiya Siangprem
 
-** 🎓 Final-Year Student | UX/UI Designer (Internship, 6 months) | Seeking roles in BA & Data Analysis
+** 🎓 Final-Year Student | UX/UI Design Intern (6 Months) | Aspiring Data Scientist, Business Analyst & UX/UI Designer
 
 ---
 
@@ -13,7 +13,7 @@ I'm passionate about Business Analysis, UX/UI Design, and Data Science—especia
 I completed a 6-month internship as a UX/UI Designer at IBOTNOI, where I worked closely with developers and users to design real-world solutions.  
 My career goal is to become a BA or UX/UI Designer who can interpret data and insights to drive user-centered, impactful product design.
 
----
+--
 
 ## Highlight Projects 
 
