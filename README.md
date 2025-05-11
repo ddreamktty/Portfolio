@@ -28,7 +28,7 @@ My career goal is to become a BA or UX/UI Designer who can interpret data and in
 
 - Business Analyst (BA)  
 - UX/UI Designer  
-- Data Analyst / Data Science (Junior Level)
+- Data Science (Junior Level)
 
 ---
 
