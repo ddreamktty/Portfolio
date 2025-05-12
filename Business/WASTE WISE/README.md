@@ -5,6 +5,7 @@ Currently, universities are facing significant challenges in managing food waste
 
 
 
+
 ## Business Aspect
 
 ### **Target Market:**
@@ -31,6 +32,7 @@ Currently, universities are facing significant challenges in managing food waste
    - Reducing the amount of food waste disposed of incorrectly.
    - Promoting learning and active participation from students and staff.
    - Supporting the development of sustainable, environmentally friendly solutions.
+
 
 
 
@@ -70,6 +72,7 @@ WasteWise is an intelligent waste bin system designed to help students segregate
 
 
 
+
 ## Vision
 Students and staff at the university will be able to correctly segregate waste according to categories, reducing the amount of food waste being disposed of in the wrong bins and making it possible to repurpose food waste effectively.
 
@@ -78,6 +81,7 @@ To improve waste segregation in the university, especially food waste, by measur
 
 ### **Theory of Change**
 If students become more engaged in waste segregation within the university, especially food waste, and understand how to sort waste properly while collaborating with others in this process, the quality of waste segregation will improve. This can be measured by the statistics of food waste correctly sorted into the right bins over a two-year period.
+
 
 
 
