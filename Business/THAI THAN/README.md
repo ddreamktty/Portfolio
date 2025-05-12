@@ -1,6 +1,5 @@
 # THAI THAN - Thai-Inspired Cookies
 
-**Project Name**: THAI THAN  
 **Category**: Business  
 **Project Duration**: October 2024 – November 2024  
 **Team Members**: 7
