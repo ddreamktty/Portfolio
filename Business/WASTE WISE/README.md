@@ -3,7 +3,7 @@
 ## Problem
 Currently, universities are facing significant challenges in managing food waste. This is due to factors such as ordering more food than necessary, unfinished meals, and improper disposal of waste by students. As a result, food waste ends up in the wrong trash bins, leading to rotting, methane gas emissions, and unpleasant odors. This increases the complexity of waste management processes and negatively impacts both the environment and the university's image.
 
----
+
 
 ## Business Aspect
 
@@ -32,7 +32,7 @@ Currently, universities are facing significant challenges in managing food waste
    - Promoting learning and active participation from students and staff.
    - Supporting the development of sustainable, environmentally friendly solutions.
 
----
+
 
 ## UX/UI Design Aspect 
 
@@ -68,7 +68,7 @@ WasteWise is an intelligent waste bin system designed to help students segregate
    - Students will earn points for disposing of waste correctly.
    - Points can be tracked and displayed in the app, with opportunities to win rewards and compete in eco-friendly challenges.
 
----
+
 
 ## Vision
 Students and staff at the university will be able to correctly segregate waste according to categories, reducing the amount of food waste being disposed of in the wrong bins and making it possible to repurpose food waste effectively.
@@ -79,7 +79,7 @@ To improve waste segregation in the university, especially food waste, by measur
 ### **Theory of Change**
 If students become more engaged in waste segregation within the university, especially food waste, and understand how to sort waste properly while collaborating with others in this process, the quality of waste segregation will improve. This can be measured by the statistics of food waste correctly sorted into the right bins over a two-year period.
 
----
+
 
 ## Conclusion
 WasteWise combines advanced technology with user-centric design to effectively address the issue of food waste segregation in universities. By engaging students and staff, the system promotes sustainable practices and helps create a cleaner, greener campus environment. Additionally, it offers a scalable business model that can be implemented in universities and other organizations looking to manage waste responsibly.
