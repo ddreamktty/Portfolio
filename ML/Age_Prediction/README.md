@@ -85,16 +85,16 @@ This project explores clustering techniques to analyze health-related data and i
 ## Comparison & Discussion
 
 ### K-Means Clustering
-- ✅ Fast and scalable for large datasets.
-- ✅ Clear, well-separated clusters.
-- ❗ Requires pre-defined k value.
-- ❗ Not ideal for complex or non-convex shapes.
+-  Fast and scalable for large datasets.
+-  Clear, well-separated clusters.
+-  Requires pre-defined k value.
+-  Not ideal for complex or non-convex shapes.
 
 ### Hierarchical Clustering
-- ✅ No need to specify k in advance.
-- ✅ Dendrograms reveal deeper relationships.
-- ✅ Suitable for multi-dimensional, complex health data.
-- ❗ Slower processing, sensitive to outliers.
+-  No need to specify k in advance.
+-  Dendrograms reveal deeper relationships.
+-  Suitable for multi-dimensional, complex health data.
+-  Slower processing, sensitive to outliers.
 
 ---
 
@@ -107,6 +107,6 @@ This project explores clustering techniques to analyze health-related data and i
 
 ## Benefits
 
-- 👩‍⚕️ **Medical professionals**: Support health risk stratification.
-- 🔬 **Researchers**: Discover trends in insulin/glucose responses by age.
-- 🧑‍💼 **General public**: Raise awareness of individual health profiles and potential risks.
+-  **Medical professionals**: Support health risk stratification.
+-  **Researchers**: Discover trends in insulin/glucose responses by age.
+-  **General public**: Raise awareness of individual health profiles and potential risks.
