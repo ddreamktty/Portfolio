@@ -1,10 +1,7 @@
 # THAI THAN – Thai-Inspired Cookies
 
-## Category  
-Business / Marketing Strategy Project
-
-- Project Duration : October – November 2024  
-- Team : Group 3 – GEN351 Section 5
+** Project Duration: ** October – November 2024  
+** Team:** Group 3 – GEN351 Section 5
 
 ## Project Overview  
 THAI THAN is a cookie brand that reflects the uniqueness of Thai flavors. This student-led project aimed to explore how cultural identity can be incorporated into snack products through branding, packaging, and marketing strategies. The final product was introduced at the THAI IDENTITY MARKET event as part of a real-market simulation.
