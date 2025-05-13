@@ -1,4 +1,4 @@
-# 🎓 Capstone Project: Event Sphere
+#  Capstone Project: Event Sphere
 
 **Duration**: August 2024 – June 2025  
 **Team**: 3 members  
