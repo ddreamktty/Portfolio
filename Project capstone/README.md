@@ -1,27 +1,32 @@
-#  Capstone Project: Event Sphere
+# Capstone Project: Event Sphere
 
 **Duration**: August 2024 – June 2025  
-**Team**: 3 members  
-**My Role**: UX/UI Designer & Machine Learning Developer
+**Team**: 3 Members  
+**My Role**: UX/UI Designer & Machine Learning Developer  
+
+**Project Website**: [https://capstone24.sit.kmutt.ac.th/nk1/](https://capstone24.sit.kmutt.ac.th/nk1/)  
+**SIT Project Showcase**: [https://seniorproject.sit.kmutt.ac.th/showproject/IT64-BU64](https://seniorproject.sit.kmutt.ac.th/showproject/IT64-BU64)
+
+---
 
 ## Project Overview
 
-Event Sphere is a web-based platform designed for renting and listing event venues.  
-This project addresses the pain point of venue booking being inconvenient — often requiring physical visits or difficult communication.
+**Event Sphere** is a web-based platform for event venue rentals and listings.  
+It aims to simplify the process of finding and booking venues — removing the need for physical visits or unclear communication.
 
-**Target Users**:  
-- Individuals who want to rent venues for events and need to know travel options.  
-- Venue owners who wish to list their spaces such as houses or buildings.
+**Target Users**:
+- Individuals searching for venues with travel planning support
+- Venue owners looking to rent out properties such as homes or event halls
 
 ---
 
 ## Core Features
 
-### 1. Smart Suggestion System (ML-based)
+### 1. Smart Suggestion System (Machine Learning)
 
-Users answer a short questionnaire during registration about their age, gender, and interests (e.g., nature or luxury). The system uses a machine learning model to recommend venue categories tailored to each user.
+A recommendation model personalizes venue suggestions based on user profiles (age, gender, interest preferences).
 
-- **ML Model Performance**:
+- **Model Metrics**:
   - Accuracy: 42.8%
   - Precision: 52.24%
   - Recall: 42.86%
@@ -29,65 +34,73 @@ Users answer a short questionnaire during registration about their age, gender, 
 
 ### 2. Event Booking System
 
-Users can search and filter venues based on location, price, or capacity. Each listing includes:
-- Full venue details
-- Photo gallery
-- User reviews
-- Easy and fast booking flow
+Search, compare, and book venues with ease.
+
+- Filter by location, price, capacity
+- Detailed venue pages with:
+  - Photos
+  - Descriptions
+  - User reviews
+  - Fast booking interface
 
 ### 3. Integrated Mapping
 
-Users can view venues on a map and see distance from their current location.  
-This helps them estimate travel time before booking.
+Visualize venue locations on an interactive map with real-time distance and travel mode suggestions  
+(Google Maps: car/motorcycle supported).
 
 ---
 
-## UX/UI Design (My Responsibility)
+## UX/UI Design
 
-### Visual Design
+**Design Direction**: Clean, accessible, and user-centric
 
-- **Main Colors**: White & Blue — clean and trustworthy
-- **Key Features**:
-  - Favorites button
-  - Review system
-  - Clear and accessible layout
+- **Main Colors**: White & Blue (trustworthy and neutral)
+- **Components**:
+  - Favorites & Review systems
+  - Responsive layout
+  - Questionnaire UX for ML onboarding
+  - Clear status indicators:  
+    - Green = Confirmed  
+    - Yellow = Pending  
+    - Red = Rejected
 
-### ML-Driven Recommendation System
-
-- Questionnaire during registration
-- Personalized homepage venue recommendations
-- Lightweight and intuitive UX
+Tool used: **Figma**
 
 ---
 
 ## System Roles
 
 ### Guest
-
-- Minimalist menu: Only “Venue Rental”
-- Venue search with filters
-- Map with venue location
-- View full venue details
+- Basic access to venue search and map
+- Can view venue details without logging in
 
 ### User
-
-- Personalized recommendations
-- Booking & rental management
-- Notifications & favorites
-- Navigation: “Navigate to Venue” button supports Google Maps (car/motorcycle)
-- Status indicators with colors: Green (Confirmed), Yellow (Pending), Red (Rejected)
+- Personalized homepage with ML-driven recommendations
+- Manage bookings and track request status
+- Receive booking notifications
+- Favorites list & travel navigation support
 
 ### Admin
-
-- Approve/reject venue booking requests
-- Review new venue listings
-- Verify users’ identity and venue ownership
+- Approves/Rejects venue listings and booking requests
+- Verifies venue documents and identity of users
+- Manages platform data integrity
 
 ---
 
 ## Technologies Used
 
-- Frontend: HTML / CSS / JS
-- ML: scikit-learn
-- UI Tool: Figma
-- Hosting: GitHub Pages / Firebase (optional)
+| Layer         | Tools / Frameworks              |
+|---------------|---------------------------------|
+| ML Component  | Python, scikit-learn            |
+| UI Design     | Figma                           |
+
+
+---
+
+## Key Takeaways
+
+- Gained practical experience in integrating ML into a real user journey
+- Designed a scalable UI system tailored for three user roles
+- Applied human-centered design principles in both UX and visual development
+- Built cross-functional collaboration and handled both technical and design responsibilities
+
