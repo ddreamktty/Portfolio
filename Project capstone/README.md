@@ -60,8 +60,8 @@ Visualize venue locations on an interactive map with real-time distance and trav
   - Responsive layout
   - Questionnaire UX for ML onboarding
   - Clear status indicators:  
-    - Green = Confirmed  
-    - Yellow = Pending  
+    - Green = Approved
+    - Yellow = Inprocess  
     - Red = Rejected
 
 Tool used: **Figma**
