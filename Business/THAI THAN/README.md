@@ -1,39 +1,58 @@
 # THAI THAN – Thai-Inspired Cookies
 
-**Project Duration: October – November 2024**                                                                                          
-**Team: Group 3 – GEN351 Section 5**
+**Category**: Business / Marketing Strategy  
+**Project Duration**: October – November 2024  
+**Team**: Group 3 – GEN351 Section 5  
 
-## Project Overview  
-THAI THAN is a cookie brand that reflects the uniqueness of Thai flavors. This student-led project aimed to explore how cultural identity can be incorporated into snack products through branding, packaging, and marketing strategies. The final product was introduced at the THAI IDENTITY MARKET event as part of a real-market simulation.
+## Project Overview
 
-## Key Products  
-**Cookies**  
-- Butter (High sweetness, rich buttery flavor)  
-- Chocolate (Medium sweetness, cocoa-rich and crispy)  
-- Green Tea (Low sweetness, fragrant and mild taste)  
+THAI THAN is a Thai-inspired cookie brand developed as a business simulation project. The objective was to validate a culturally differentiated product in a real market setting through effective planning, market testing, and performance analysis. The brand was introduced at the **THAI IDENTITY MARKET** as a limited-run product.
 
-**Dips**  
-- Thai Tea Dip (Made from 100% Thai tea leaves, smooth and aromatic)  
-- Green Tea Dip (Creamy and rich with a roasted green tea scent)
+## Product Offering
 
-## Objective  
-To develop and test a Thai-inspired snack product by applying marketing theories such as market research, customer targeting, and brand positioning in a real-world scenario.
+- **Cookies**: Butter, Chocolate, Green Tea (each with distinct sweetness profiles)  
+- **Dips**: Thai Tea Dip, Green Tea Dip – designed to pair with the cookies, enhancing flavor depth
 
-## Highlights  
-- Created unique flavor combinations using local Thai inspiration  
-- Designed original packaging using eco-friendly palm leaf baskets  
-- Developed promotional materials and digital content for social media engagement  
-- Sold products on-site and collected real customer feedback  
-- Delivered profit exceeding expectations based on initial projections
+## Key Business Goals
 
-## Responsibilities  
-- Collaborated in cost estimation, pricing strategy, and value proposition development  
-- Participated in packaging design and brand message creation  
-- Contributed to booth setup and sales activities during the live event  
-- Involved in post-sale analysis and report presentation
+- Introduce a culturally unique snack using Thai flavor inspiration
+- Achieve profitability through optimized cost management
+- Conduct real-time sales and gather consumer feedback to inform further business decisions
 
-## Outcome Summary  
-The THAI THAN project received positive market response and achieved its target within the limited timeframe. The experience provided valuable insights into consumer behavior, team-based project management, and real-world business execution.
+## Strategic Execution
 
-## Note  
-Strategic details, pricing, and financial specifics have been intentionally omitted in this version to protect the originality of the work. Full version available upon academic request.
+- **Market Research**: Conducted informal surveys among students to test product-market fit
+- **Pricing Strategy**: Designed to ensure positive margin while maintaining accessibility
+- **Marketing Channels**: Focused on Instagram for pre-orders, community engagement, and awareness
+- **Packaging & Branding**: Developed Thai-style eco-friendly packaging with a strong visual identity
+
+## Business Process Involvement
+
+- **Cost Analysis**: Defined cost structure, break-even point, and set profit targets
+- **Customer Targeting**: Focused on university students and event attendees with limited-time promotions
+- **Sales Operations**: Managed pre-orders and on-site selling
+- **Team Coordination**: Worked cross-functionally in pricing, design, and marketing roles
+
+## Key Results
+
+- **Profit Margin**: 39.86% (exceeding initial projection)
+- **Revenue**: 2,435 THB from a single-day event
+- **Customer Insights**: High repeat interest, positive feedback on product concept and packaging
+
+## Business Analysis Frameworks Applied
+
+**SWOT Analysis**  
+- *Strengths*: Unique Thai flavor profile, eco-friendly design, targeted digital presence  
+- *Weaknesses*: Small-scale production capacity, time-limited availability  
+- *Opportunities*: Potential to expand online and through partnerships  
+- *Threats*: Competitive snack market, short product shelf life  
+
+**TOWS Matrix**  
+- Matched internal strengths (product uniqueness, brand story) with external opportunities (seasonal markets, cultural fairs)  
+- Identified risk mitigation approaches based on weaknesses and threats  
+
+## Conclusion
+
+This project demonstrated the full cycle of business concept development—from ideation and cost modeling to product launch and post-sale analysis. The experience provided practical exposure to cross-functional collaboration, consumer behavior analysis, and data-driven decision-making, aligning closely with the responsibilities of a Business Analyst role.
+
+**Note**: Sensitive financial data and marketing tactics have been summarized to preserve project originality. Full version available upon request.
