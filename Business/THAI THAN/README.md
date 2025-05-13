@@ -1,6 +1,6 @@
 # THAI THAN – Thai-Inspired Cookies
 
-**Project Duration: October – November 2024**
+**Project Duration: October – November 2024**                                                                                          
 **Team: Group 3 – GEN351 Section 5**
 
 ## Project Overview  
