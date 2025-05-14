@@ -4,6 +4,11 @@
 **Team**: 3 members  
 **My Role**: UX/UI Designer & Machine Learning Developer
 
+
+**Project Website**: [https://capstone24.sit.kmutt.ac.th/nk1/](https://capstone24.sit.kmutt.ac.th/nk1/)  
+**SIT Project Showcase**: [https://seniorproject.sit.kmutt.ac.th/showproject/IT64-BU64](https://seniorproject.sit.kmutt.ac.th/showproject/IT64-BU64)
+
+
 ## Project Overview
 
 The Venue Rental Recommendation Platform is a web-based solution designed to recommend event venues to users based on their preferences and booking history. The platform aims to simplify the venue booking process by offering personalized venue suggestions using machine learning models trained on user data.
