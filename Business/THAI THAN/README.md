@@ -55,4 +55,3 @@ THAI THAN is a Thai-inspired cookie brand developed as a business simulation pro
 
 This project demonstrated the full cycle of business concept development—from ideation and cost modeling to product launch and post-sale analysis. The experience provided practical exposure to cross-functional collaboration, consumer behavior analysis, and data-driven decision-making, aligning closely with the responsibilities of a Business Analyst role.
 
-**Note**: Sensitive financial data and marketing tactics have been summarized to preserve project originality. Full version available upon request.
