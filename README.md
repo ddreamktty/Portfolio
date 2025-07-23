@@ -2,19 +2,22 @@
 
 ## Kittiya Siangprem
 
-**Final-Year Student | UX/UI Design Intern (6 Months)**  
-**Aspiring Data Scientist | Business Analyst | UX/UI Designer**
+**Graduated | UX/UI Design Intern (6 Months)**  
+**Aspiring Business Analyst | UX/UI Designer**
 
 ---
 
 ### About Me
 
-Hi! I’m Kittiya Siangprem, a final-year student from the School of Information Technology, KMUTT, graduating in May 2025.
+Hi! I’m **Kittiya Siangprem**, a recent graduate from the **School of Information Technology, King Mongkut’s University of Technology Thonburi (KMUTT)**, Class of **May 2025**.
 
-I’m passionate about Data Science, Business Analysis, and UX/UI Design, with a focus on creating digital experiences that align with both user needs and business goals.
+I’m passionate about **Business Analysis** and **UX/UI Design**, with a strong interest in creating digital solutions that align with both user needs and business goals.
 
-During my 6-month internship as a UX/UI Designer at IBOTNOI, I collaborated with developers and real users to design practical solutions.  
-I believe in data-informed design—using insights to drive intuitive and impactful user experiences.
+During my 6-month internship as a **UX/UI Designer at IBOTNOI**, I worked closely with developers and real users to deliver practical, user-centered designs.
+
+I believe in **data-informed design**—combining analytical thinking and creativity to build experiences that are both intuitive and impactful.
+
+I'm currently seeking a full-time opportunity as a **Business Analyst** or **UX/UI Designer**, where I can contribute my skills and grow professionally.
 
 ---
 
@@ -42,7 +45,6 @@ I believe in data-informed design—using insights to drive intuitive and impact
 
 ### Open to Work In
 
-- Junior Data Scientist  
 - Business Analyst (BA)  
 - UX/UI Designer  
 
