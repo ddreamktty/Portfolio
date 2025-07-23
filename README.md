@@ -9,15 +9,15 @@
 
 ### About Me
 
-Hi! I’m **Kittiya Siangprem**, a recent graduate from the **School of Information Technology, King Mongkut’s University of Technology Thonburi (KMUTT)**, Class of **May 2025**.
+Hi! I’m Kittiya Siangprem, a recent graduate from the School of Information Technology, King Mongkut’s University of Technology Thonburi (KMUTT), Class of May 2025.
 
-I’m passionate about **Business Analysis** and **UX/UI Design**, with a strong interest in creating digital solutions that align with both user needs and business goals.
+I’m passionate about Business Analysis and UX/UI Design, with a strong interest in creating digital solutions that align with both user needs and business goals.
 
-During my 6-month internship as a **UX/UI Designer at IBOTNOI**, I worked closely with developers and real users to deliver practical, user-centered designs.
+During my 6 month internship as a UX/UI Designer at IBOTNOI, I worked closely with developers and real users to deliver practical, user-centered designs.
 
-I believe in **data-informed design**—combining analytical thinking and creativity to build experiences that are both intuitive and impactful.
+I believe in data informed design combining analytical thinking and creativity to build experiences that are both intuitive and impactful.
 
-I'm currently seeking a full-time opportunity as a **Business Analyst** or **UX/UI Designer**, where I can contribute my skills and grow professionally.
+I'm currently seeking a full time opportunity as a Business Analyst or UX/UI Designer, where I can contribute my skills and grow professionally.
 
 ---
 
